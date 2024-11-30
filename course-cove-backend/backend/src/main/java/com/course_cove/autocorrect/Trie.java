@@ -1,19 +1,21 @@
 package com.course_cove.autocorrect;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.*;
 
 public class Trie {
     private TrieNode root;
+    private Map<String, String> prevWords;
 
     public Trie() {
         root = new TrieNode();
+        prevWords = new HashMap<>();
     }
 
     public void insert(String word) {
+        String newWord = word.toLowerCase();
+        prevWords.put(newWord, word);
         TrieNode current = root;
-        for (char ch : word.toCharArray()) {
+        for (char ch : newWord.toCharArray()) {
             current.getChildren().putIfAbsent(ch, new TrieNode());
             current = current.getChildren().get(ch);
         }
@@ -21,14 +23,18 @@ public class Trie {
     }
 
     public List<String> autocomplete(String prefix) {
+        prefix = prefix.toLowerCase();
         List<String> suggestions = new ArrayList<>();
         TrieNode node = findLastNodeOfPrefix(prefix);
 
         if (node != null) {
             findAllWordsWithPrefix(node, prefix, suggestions);
         }
-
-        return suggestions;
+        List<String> suggest2 = new ArrayList<>();
+        for (String sug : suggestions) {
+            suggest2.add(this.prevWords.get(sug));
+        }
+        return suggest2;
     }
 
     private TrieNode findLastNodeOfPrefix(String prefix) {

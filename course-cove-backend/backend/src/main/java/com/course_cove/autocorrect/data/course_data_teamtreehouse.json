@@ -1,0 +1,280 @@
+[
+    {
+        "title": "Learn AI, Data Science, Python, and React",
+        "instructor": "NA",
+        "rating": "2.7",
+        "level": "Beginner",
+        "tags": [
+            "AI",
+            " DataScience",
+            " Python",
+            " React",
+            " Programming",
+            " Web Development"
+        ],
+        "price": "49",
+        "description": "Description Not Available ",
+        "url": "https://teamtreehouse.com/"
+    },
+    {
+        "title": "About Treehouse",
+        "instructor": "NA",
+        "rating": "3.0",
+        "level": "Intermediate",
+        "tags": [
+            "Platform Overview",
+            " Learning Resources",
+            " Online Education"
+        ],
+        "price": "49",
+        "description": "Description Not Available",
+        "url": "https://teamtreehouse.com/about"
+    },
+    {
+        "title": "Kickstart your career",
+        "instructor": "NA",
+        "rating": "2.1",
+        "level": "Advanced",
+        "tags": [
+            "Career Development",
+            " Job Preparation",
+            " Professional Skills"
+        ],
+        "price": "90",
+        "description": "Wireframing, Figma, HTML",
+        "url": "https://teamtreehouse.com/career-toolbox"
+    },
+    {
+        "title": "Animal Crossing API",
+        "instructor": "NA",
+        "rating": "1.7",
+        "level": "Beginner",
+        "tags": [
+            "API Integration",
+            " Data Retrieval",
+            " JavaScript"
+        ],
+        "price": "199",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/10"
+    },
+    {
+        "title": "Digital Calculator Neumorphism",
+        "instructor": "NA",
+        "rating": "1.5",
+        "level": "Advanced",
+        "tags": [
+            "UI Design",
+            " Neumorphism",
+            " JavaScript",
+            " CSS"
+        ],
+        "price": "249",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/11"
+    },
+    {
+        "title": "Hamburger Menu",
+        "instructor": "NA",
+        "rating": "3.1",
+        "level": "Intermediate",
+        "tags": [
+            "Responsive Design",
+            " JavaScript",
+            " CSS",
+            " Web Development"
+        ],
+        "price": "199",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/12"
+    },
+    {
+        "title": "JavaScript Calculator with a Dark Mode",
+        "instructor": "NA",
+        "rating": "2.5",
+        "level": "Beginner",
+        "tags": [
+            "JavaScript",
+            " Dark Mode",
+            " Theming",
+            " UI Design"
+        ],
+        "price": "5",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/13"
+    },
+    {
+        "title": "Multi-Step Form",
+        "instructor": "NA",
+        "rating": "2.8",
+        "level": "Advanced",
+        "tags": [
+            "JavaScript",
+            " Form Validation",
+            " UX Design",
+            " Web Development"
+        ],
+        "price": "199",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/14"
+    },
+    {
+        "title": "Settings Panel",
+        "instructor": "NA",
+        "rating": "2.9",
+        "level": "Intermediate",
+        "tags": [
+            "UI/UX Design",
+            " JavaScript",
+            " CSS"
+        ],
+        "price": "49",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/15"
+    },
+    {
+        "title": "UI with a Dark Mode",
+        "instructor": "NA",
+        "rating": "1.4",
+        "level": "Beginner",
+        "tags": [
+            "JavaScript",
+            " Dark Mode",
+            " Theming",
+            " UI/UX Design"
+        ],
+        "price": "99",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/16"
+    },
+    {
+        "title": "Yoga Studio Landing Page",
+        "instructor": "NA",
+        "rating": "1.1",
+        "level": "Intermediate",
+        "tags": [
+            "Web Design",
+            " Landing Pages",
+            " HTML",
+            " CSS"
+        ],
+        "price": "49",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/17"
+    },
+    {
+        "title": "Product Details Modal",
+        "instructor": "NA",
+        "rating": "1.6",
+        "level": "Advanced",
+        "tags": [
+            "UI Design",
+            " Modals",
+            " JavaScript",
+            " CSS"
+        ],
+        "price": "49",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/18"
+    },
+    {
+        "title": "Data Sorting Component",
+        "instructor": "NA",
+        "rating": "1.8",
+        "level": "Beginner",
+        "tags": [
+            "Data Visualization",
+            " JavaScript",
+            " Sorting Algorithms"
+        ],
+        "price": "49",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/19"
+    },
+    {
+        "title": "Message Pins Component",
+        "instructor": "NA",
+        "rating": "3.2",
+        "level": "Intermediate",
+        "tags": [
+            "JavaScript",
+            " Web Development",
+            " User Interaction Design"
+        ],
+        "price": "199",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/20"
+    },
+    {
+        "title": "Message Reactions Component",
+        "instructor": "NA",
+        "rating": "3.5",
+        "level": "Beginner",
+        "tags": [
+            "JavaScript",
+            " Interactive UI",
+            " Web Development"
+        ],
+        "price": "49",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/21"
+    },
+    {
+        "title": "SVG Animations",
+        "instructor": "NA",
+        "rating": "3.6",
+        "level": "Advanced",
+        "tags": [
+            "SVG",
+            " Animations",
+            " Front-End Development"
+        ],
+        "price": "39",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/6"
+    },
+    {
+        "title": "An Interactive Video Transcript",
+        "instructor": "NA",
+        "rating": "2.5",
+        "level": "Beginner",
+        "tags": [
+            "Video Features",
+            " JavaScript",
+            " Accessibility",
+            " UI/UX Design"
+        ],
+        "price": "49",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/7"
+    },
+    {
+        "title": "AI Short Story Generator",
+        "instructor": "NA",
+        "rating": "2.7",
+        "level": "Advanced",
+        "tags": [
+            "AI",
+            " Natural Language Processing",
+            " Creative Writing"
+        ],
+        "price": "399",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/8"
+    },
+    {
+        "title": "Digital Business Card",
+        "instructor": "NA",
+        "rating": "2.5",
+        "level": "Intermediate",
+        "tags": [
+            "Web Design",
+            " HTML",
+            " CSS",
+            " Personal Branding"
+        ],
+        "price": "199",
+        "description": "Heads up!",
+        "url": "https://teamtreehouse.com/code_adventures/9"
+    }
+]
